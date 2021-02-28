@@ -5,9 +5,9 @@ var bil1, bil2, hasil : integer;
     op : string;
 begin
     clrscr;
-    writeln('=============================');
+    writeln('============================= ');
     writeln('Operasi Matematika Bilangan BUlat');
-    writeln('=============================');
+    writeln('============================= ');
     writeln('1. Penjumlahan dengan +');
     writeln('2. Pengurangan dengan -');
     writeln('3. Perkalian dengan *');
